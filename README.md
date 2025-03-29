@@ -75,6 +75,13 @@ Le loueur pourra choisir la durée de la location et sera facturé du montant in
 <h2 align='center'>🫵 Apporter votre aide 🫵</h2>
 Si vous souhaitez participer à ce porjet. Suiver ces instructions :
 
+```
+1. Fork le projet
+2. Creer une branche
+3. Commit et push
+4. Pousser la branche
+5. Pull request
+```
 
 <h2 align='center'>📰 License 📰</h2>
 
