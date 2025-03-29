@@ -1,0 +1,37 @@
+LICENCE D'UTILISATION DU MERCURE EMPORIUM
+
+Copyright (C) 2023 Cloes Lucas
+
+1. **Définition** :
+   - "Logiciel" désigne le Mercure Emporium, y compris tout le code source, les fichiers de configuration, et la documentation associée.
+   - "Licencié" désigne toute personne physique ou morale ayant reçu une copie du Logiciel sous cette Licence.
+
+2. **Droits Concédés** :
+   - Le Licencié est autorisé à utiliser le Logiciel uniquement pour un usage personnel et non commercial.
+   - Le Licencié peut modifier le Logiciel pour son propre usage, à condition de ne pas distribuer les versions modifiées.
+
+3. **Restrictions** :
+   - Le Licencié n'est pas autorisé à distribuer, vendre, louer, sous-licencier ou transférer le Logiciel ou toute partie de celui-ci à des tiers, sous quelque forme que ce soit.
+   - Le Licencié ne peut pas utiliser le Logiciel pour fournir des services à des tiers, que ce soit à titre onéreux ou gratuit.
+
+4. **Propriété Intellectuelle** :
+   - Tous les droits de propriété intellectuelle sur le Logiciel restent la propriété exclusive de Cloes Lucas.
+   - Le Licencié ne doit pas retirer ou modifier les avis de copyright ou de propriété présents dans le Logiciel.
+
+5. **Exclusion de Garantie** :
+   - Le Logiciel est fourni "en l'état", sans garantie d'aucune sorte, expresse ou implicite, y compris, mais sans s'y limiter, les garanties implicites de qualité marchande, d'adéquation à un usage particulier et de non-contrefaçon.
+
+6. **Limitation de Responsabilité** :
+   - En aucun cas, Cloes Lucas ne pourra être tenu responsable de tout dommage direct, indirect, incident, spécial, consécutif ou punitif, y compris, mais sans s'y limiter, les dommages pour perte de profits, perte de données, interruption d'activité ou toute autre perte commerciale, résultant de l'utilisation ou de l'incapacité d'utiliser le Logiciel, même si Cloes Lucas a été informé de la possibilité de tels dommages.
+
+7. **Résiliation** :
+   - Cette Licence prendra fin automatiquement en cas de violation de l'une de ses conditions par le Licencié.
+
+8. **Droit Applicable** :
+   - Cette Licence est régie par les lois de [votre pays ou juridiction], sans égard à ses principes de conflit de lois.
+
+En utilisant le Logiciel, le Licencié accepte d'être lié par les termes de cette Licence.
+
+---
+
+**Contact** : Pour toute question concernant cette Licence, veuillez contacter Cloes Lucas à [votre adresse email].
