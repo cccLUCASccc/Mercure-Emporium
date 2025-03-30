@@ -86,4 +86,79 @@ Si vous souhaitez participer à ce porjet. Suiver ces instructions :
 <h2 align='center'>📰 License 📰</h2>
 
 Ce repos est sous license privée [ici](./LICENSE.txt).
+<h2 align='center'> 🌳 Un apercu de la structure. 🌳</h2>
 
+```
+MercureEmporium
+├─ Backend
+│  ├─ .editorconfig
+│  ├─ ace.js
+│  ├─ adonisrc.ts
+│  ├─ app
+│  │  ├─ exceptions
+│  │  │  └─ handler.ts
+│  │  ├─ middleware
+│  │  │  ├─ auth_middleware.ts
+│  │  │  ├─ container_bindings_middleware.ts
+│  │  │  ├─ force_json_response_middleware.ts
+│  │  │  ├─ guest_middleware.ts
+│  │  │  └─ silent_auth_middleware.ts
+│  │  └─ models
+│  │     └─ user.ts
+│  ├─ bin
+│  │  ├─ console.ts
+│  │  ├─ server.ts
+│  │  └─ test.ts
+│  ├─ config
+│  │  ├─ app.ts
+│  │  ├─ auth.ts
+│  │  ├─ bodyparser.ts
+│  │  ├─ cors.ts
+│  │  ├─ database.ts
+│  │  ├─ hash.ts
+│  │  ├─ logger.ts
+│  │  └─ session.ts
+│  ├─ database
+│  │  └─ migrations
+│  │     └─ 1743176471592_create_users_table.ts
+│  ├─ eslint.config.js
+│  ├─ package-lock.json
+│  ├─ package.json
+│  ├─ start
+│  │  ├─ env.ts
+│  │  ├─ kernel.ts
+│  │  └─ routes.ts
+│  ├─ tests
+│  │  └─ bootstrap.ts
+│  └─ tsconfig.json
+├─ FrontEnd
+│  ├─ eslint.config.mjs
+│  ├─ nuxt.config.ts
+│  ├─ package-lock.json
+│  ├─ package.json
+│  ├─ public
+│  │  ├─ favicon.ico
+│  │  ├─ objets.json
+│  │  └─ robots.txt
+│  ├─ README.md
+│  ├─ server
+│  │  └─ tsconfig.json
+│  ├─ src
+│  │  ├─ app.config.ts
+│  │  ├─ app.vue
+│  │  ├─ assets
+│  │  │  └─ css
+│  │  │     └─ main.css
+│  │  ├─ components
+│  │  │  └─ Card_Item.vue
+│  │  ├─ layouts
+│  │  │  └─ default.vue
+│  │  ├─ pages
+│  │  │  ├─ about.vue
+│  │  │  └─ index.vue
+│  │  └─ theme
+│  └─ tsconfig.json
+├─ LICENSE.txt
+└─ README.md
+
+```

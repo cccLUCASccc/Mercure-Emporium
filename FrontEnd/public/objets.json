@@ -1,0 +1,55 @@
+{
+    "articles": [
+      {
+        "nom": "Vase en porcelaine Ming",
+        "description": "Un magnifique vase en porcelaine blanche et bleue datant de la dynastie Ming.",
+        "epoque_de_fabrication": "XVe siècle",
+        "style": "Chinois traditionnel",
+        "type_de_vente": "directe",
+        "images": [
+            "https://www.bing.com/images/search?view=detailV2&ccid=TV66xPVS&id=FDE9B652A9E0D397E919116B29E722044CC880F0&thid=OIP.TV66xPVS7HhiXBxUK3XFiwHaIl&mediaurl=https%3a%2f%2fp1.storage.canalblog.com%2f23%2f61%2f119589%2f123247283_o.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4d5ebac4f552ec78625c1c542b75c58b%3frik%3d8IDITAQi5ylrEQ%26pid%3dImgRaw%26r%3d0&exph=2000&expw=1725&q=vase+ming&simid=608028784457824577&FORM=IRPRST&ck=5C6F1EEA01B1129EA76D3BA244648E6E&selectedIndex=2&itb=0"
+        ]
+      },
+      {
+        "nom": "Statue en bronze d'Athéna",
+        "description": "Une statue en bronze représentant la déesse Athéna, trouvée près d'Athènes.",
+        "epoque_de_fabrication": "IVe siècle avant J.-C.",
+        "style": "Art grec classique",
+        "type_de_vente": "echange",
+        "images": [
+            "https://www.bing.com/images/search?view=detailV2&ccid=eXK6WV0A&id=27DC72DBEFB6F6E2C68438B3985D524E85FAE530&thid=OIP.eXK6WV0AahJP9r4fwtubrgHaJ3&mediaurl=https%3a%2f%2fwww.decorarconarte.com%2fwp-content%2fuploads%2f2020%2f12%2fEscultura-Atenea-44cm-ART-K15-06-scaled.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7972ba595d006a124ff6be1fc2db9bae%3frik%3dMOX6hU5SXZizOA%26pid%3dImgRaw%26r%3d0&exph=2560&expw=1923&q=statue+de+ath%c3%a9na&simid=608052900708367041&FORM=IRPRST&ck=49CE474250A00EF067AFAFC5FBB4B8CE&selectedIndex=3&itb=0"
+        ]
+      },
+      {
+        "nom": "Table de banquet Louis XV",
+        "description": "Table en bois sculpté avec des motifs rococo, typique de l'époque Louis XV.",
+        "epoque_de_fabrication": "XVIIIe siècle",
+        "style": "Rococo",
+        "type_de_vente": "location",
+        "images": [
+            "https://www.bing.com/aclick?ld=e8-rXVMQPqOUdBDE2ysA3lADVUCUwd01HKGzSnlD866G3wF7D7hCR9tCjnkghpBH2cskWqB5TOFW79evyc4k9fbjX_YFCGZ_6Nb4KelDHEKd0-zo3HycJrH5zR7dz5O2RSWeQLbYrWbGyBgQA0wfehkcdgwwGA58yJyT6nanjwUPVGowQYIWGS2W2wk8SI0dmA4K8p7Q&u=aHR0cHMlM2ElMmYlMmZ3d3cuZGFuY292ZXJzaG9wLmNvbSUyZmJlZnIlMmZwcm9kdWN0JTJmdGFibGUtZGUtYmFucXVldC0xODJ4NzR4NzRjbS1ncmlzLWNsYWlyLTEtcGllY2UtMi5hc3B4JTNmbXNjbGtpZCUzZGU4NWNmOTdmOThlYjE5NjU2NDU1OWU5NmE0YjcyYTA4JTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkQkVfQW1hbmRhX0FJX0JfRGFuY292ZXJfU0hPUFBJTkclMjZ1dG1fdGVybSUzZDQ1ODE2NjQ5NzQyNDIxNDIlMjZ1dG1fY29udGVudCUzZDQ3JTI1MjBQZXJnb2xhcyUyNTIwYWRvc3MlYzMlYTll&rlid=e85cf97f98eb196564559e96a4b72a08&ntb=1&ntb=1&ntb=1"
+        ]
+      },
+      {
+        "nom": "Masque tribal africain",
+        "description": "Un masque utilisé lors de rituels traditionnels en Afrique de l'Ouest.",
+        "epoque_de_fabrication": "Début du XXe siècle",
+        "style": "Art tribal",
+        "type_de_vente": "directe",
+        "images": [
+            "https://www.bing.com/images/search?view=detailV2&ccid=cWDc0wXS&id=1C45B41686C3D06A5B0FA5863E264ABEE65C3C60&thid=OIP.cWDc0wXSnK1l3oDYjO8GkQHaHa&mediaurl=https%3a%2f%2fimages1.novica.net%2fpictures%2f5%2fp219468_2.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7160dcd305d29cad65de80d88cef0691%3frik%3dYDxc5r5KJj6GpQ%26pid%3dImgRaw%26r%3d0&exph=2000&expw=2000&q=masque+africain&simid=608002460609360376&FORM=IRPRST&ck=4DF050BD19F9ADB93BF55C6042B87988&selectedIndex=2&itb=0"
+        ]
+      },
+      {
+        "nom": "Peinture impressionniste",
+        "description": "Peinture représentant un paysage urbain parisien au crépuscule.",
+        "epoque_de_fabrication": "Fin du XIXe siècle",
+        "style": "Impressionnisme",
+        "type_de_vente": "echange",
+        "images": [
+            "https://www.bing.com/images/search?view=detailV2&ccid=rDZBz9Z5&id=DA276DAD3AF9CFAFE496BE5DBB181118129C8627&thid=OIP.rDZBz9Z5aZTGx1vpKwIN3gHaFb&mediaurl=https%3a%2f%2fi.pinimg.com%2foriginals%2fc1%2ff0%2f26%2fc1f0269023694d21a8786f928ec92072.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.ac3641cfd6796994c6c75be92b020dde%3frik%3dJ4acEhgRGLtdvg%26pid%3dImgRaw%26r%3d0&exph=1174&expw=1600&q=peinture+impressionniste&simid=608036335019494978&FORM=IRPRST&ck=3EDD8269D54990BFF818FC84B46E904E&selectedIndex=4&itb=0"
+        ]
+      }
+    ]
+  }
+  
